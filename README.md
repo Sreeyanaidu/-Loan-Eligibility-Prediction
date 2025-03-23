@@ -52,4 +52,4 @@ This project was developed collaboratively by:
 - **B. Sai Sreeya Naidu** (@Sreeyanaidu)  
 - **P. Sri Sai Hriday Tej**
 - **R. Lakshman Ashish**
-- **D. Veena Sree Krishna**
+- **D. Veena Sree Krishna**(@Veenbeans)
